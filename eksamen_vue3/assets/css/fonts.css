@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'QuicksandRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('../fonts/QuicksandRegular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'QuicksandBold';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('../fonts/QuicksandBold.ttf') format('truetype');
+}
